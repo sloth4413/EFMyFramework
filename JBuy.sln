@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBuy.Data", "JBuy.Data\JBuy.Data.csproj", "{12D3D3CB-6D36-49B2-8282-D5526363C51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBuy.Test", "JBuy.Test\JBuy.Test.csproj", "{6CA3E6D0-A39A-4494-B09A-928D3CF974B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBuy.WebApi", "JBuy.WebApi\JBuy.WebApi.csproj", "{072F0131-C569-4EDA-9827-6A6E23BD8B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D3D3CB-6D36-49B2-8282-D5526363C51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D3D3CB-6D36-49B2-8282-D5526363C51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D3D3CB-6D36-49B2-8282-D5526363C51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D3D3CB-6D36-49B2-8282-D5526363C51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA3E6D0-A39A-4494-B09A-928D3CF974B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA3E6D0-A39A-4494-B09A-928D3CF974B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA3E6D0-A39A-4494-B09A-928D3CF974B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA3E6D0-A39A-4494-B09A-928D3CF974B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072F0131-C569-4EDA-9827-6A6E23BD8B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072F0131-C569-4EDA-9827-6A6E23BD8B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072F0131-C569-4EDA-9827-6A6E23BD8B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072F0131-C569-4EDA-9827-6A6E23BD8B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
